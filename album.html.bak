@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<head>
+<meta charset="utf-8">
+<title>Album da argentina</title>
+<style>
+body{
+background-color: white;
+margin: 0PX;
+padding: 0px;
+}
+
+
+</style>
+</head>
+<body>
+
+
+
+<table border=1>
+<tr><td colspan=6><img src= "bandeira.png" width= "100%"></td></tr>
+<tr>
+<td colspan=2 rowspan=2><img src="selecao.png"  whidth="100%"></td>
+<td><img src="veron.png" whidth="100%"></td>
+<td><img src="escudo.png" whidth="100%"></td>
+<td><img src="foto2.png" whidth="100%"></td>
+<td><img src="ft.png" whidth="100%"></td>
+</tr>
+<tr>
+<td><img src="camisa.png" whidth="100%"></td>
+<td><img src="camisa 2.png" whidth="100%"></td>
+<td><img src="goleiro.png" whidth="100%"></td>
+<td><img src="ld.png" whidth="100%"><td>
+
+</tr>
+<td><img src="burdioso.png" whidth="100%">
+<td><img src="heinze.png" whidth="100%"></td>
+<td><img src="maxi.png" whidth="100%"></td>
+<td><img src="di maria.png" whidth="100%"></td>
+<td><img src="messi.png" whidth="100%"></td>
+<td><img src="tevez.png" whidth="100%"></td>
+</tr>
+
+
+<tr><td><img src="higuain.png" whidth="100%"><td>Coluna 2</td><td>Coluna 3</td><td>Coluna 1</td><td>Coluna 2</td><td>Coluna 3</td></tr>
+
+
+</table>
+</body>
+</html>
+
